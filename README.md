@@ -7,8 +7,10 @@ Repo that implements common deep learning papers
 -->
 
 #### 2012
-* ImageNet Classification with Deep Convolutional Neural Networks [[code](scripts/Alexnet.py)] [[link](https://arxiv.org/abs/1712.01208)]
-
+* ImageNet Classification with Deep Convolutional Neural Networks [[code](scripts/Alexnet.py)] [[link](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)]
+    * **CNN**
+    * **Local Response Normalization**
+  
 #### README inspired from
 
 * Jason Benn [[link](https://github.com/JasonBenn/deep-learning-paper-notes)]
