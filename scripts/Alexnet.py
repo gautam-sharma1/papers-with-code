@@ -21,7 +21,7 @@ dim_out = [{H_in +  2*padding - dilation*(kernel_size-1) - 1}/stride + 1]
 
 """
 class Alexnet(nn.module):
-    def __int__(self, num_classes = 1000, default_bias=True):
+    def __init__(self, num_classes = 1000, default_bias=True):
         """
 
         :param num_classes: Original paper uses 1000 output classes. Can be changed to adopt different architecture.
