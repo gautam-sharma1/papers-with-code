@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f187f7df-b205-47ee-9692-2459aa9d80ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/Alexnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/Alexnet.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,8 @@
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/scripts/Alexnet.py">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="681">
-                    <caret line="89" selection-start-line="89" selection-end-line="94" />
+                  <state relative-caret-position="404">
+                    <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
                     <folding>
                       <element signature="e#1141#1153#0" expanded="true" />
                     </folding>
@@ -37,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/Vgg11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="65" column="22" lean-forward="true" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+            <state relative-caret-position="111">
+              <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
               <folding>
                 <element signature="e#1141#1153#0" expanded="true" />
               </folding>
@@ -66,10 +66,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/scripts/Alexnet.py" />
         <option value="$PROJECT_DIR$/scripts/Shared_Autonomy.py" />
         <option value="$PROJECT_DIR$/scripts/vgg11.oy.py" />
         <option value="$PROJECT_DIR$/scripts/Vgg11.py" />
+        <option value="$PROJECT_DIR$/scripts/Alexnet.py" />
       </list>
     </option>
   </component>
@@ -170,7 +170,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30235162" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30907056" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -186,20 +186,20 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/scripts/Shared_Autonomy.py" />
-    <entry file="file://$PROJECT_DIR$/scripts/Alexnet.py">
+    <entry file="file://$PROJECT_DIR$/scripts/Vgg11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
-          <caret line="89" selection-start-line="89" selection-end-line="94" />
+        <state relative-caret-position="111">
+          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
           <folding>
             <element signature="e#1141#1153#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/Vgg11.py">
+    <entry file="file://$PROJECT_DIR$/scripts/Alexnet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="65" column="22" lean-forward="true" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="22" />
+        <state relative-caret-position="404">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
           <folding>
             <element signature="e#1141#1153#0" expanded="true" />
           </folding>

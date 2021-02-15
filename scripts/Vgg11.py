@@ -61,6 +61,8 @@ class VGG11(nn.Module):
             nn.ReLU(),
             nn.Linear(in_features=4096, out_features=num_classes)
         )
+        for l in self.layers:
+            print(l)
 
         for i,m in enumerate(self.modules()):
             print(i,m)

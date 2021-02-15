@@ -34,7 +34,6 @@ class Alexnet(nn.module):
         super(Alexnet, self).__init__()
         # convolutional layer (sees 32x32x3 image tensor)
         # input = 224x224x3 image
-        # self.conv1 = nn.Conv2d(in_channels, out_channels, kernel_size, stride=1, padding=0)
         self.convolution = nn.Sequential(
             nn.Conv2d(3,96,kernel_size=11,stride=4),
             nn.ReLU(),
@@ -72,7 +71,7 @@ class Alexnet(nn.module):
 
         :return: Initializes the weights and biases as stated in the paper
         """
-        for layer in self.net:
+        for layer in self.modules():
             if type(layer) == nn.Conv2d:
                 nn.init.normal_(layer.weight, mean=0, std=0.01)
                 nn.init.constant_(layer.bias, 0)
