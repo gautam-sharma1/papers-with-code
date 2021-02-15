@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f187f7df-b205-47ee-9692-2459aa9d80ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/scripts/Alexnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/Alexnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/Vgg11.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/Vgg11.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
